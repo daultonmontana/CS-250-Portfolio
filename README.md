@@ -1,1 +1,9 @@
-# CS-250-Portfolio
+CS 250 Module Eight Journal
+1. How do I interpret user needs and implement them into a program? How does creating user stories help with this?
+I think understanding what the user needs is one of the most important parts of creating a program. Before starting to code, I need to understand what the user wants the program to do and what problems it needs to solve. User stories help because they explain what a user wants and why they need it. They also make it easier to break a project into smaller tasks and focus on the features that matter most. This helps make sure the final program works the way the user expects.
+
+2. How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+When I develop a program, I try to break the work into smaller steps so it is easier to manage. I start by understanding the requirements and then work on writing and testing the code. If something does not work, I go back and make changes until I can get it working correctly. Learning about Agile has shown me that development does not have to happen all at once. In the future, I would like to use sprint planning, regular feedback, and retrospectives to stay organized, keep track of my progress, and figure out what I can improve on in the next project.
+
+3. What does it mean to be a good team member in software development?
+To me, being a good team member means communicating with others, doing my part, and being willing to help when someone needs it. Software development involves more than just writing code because everyone needs to work together to reach the same goal. It is also important to listen to other people's ideas, accept feedback, and take responsibility for my work. I think being dependable and keeping an open mind can help a team solve problems and create a better final product.
